@@ -4,17 +4,19 @@
     "url": "https://jadsplex.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/jadsplex.duckdns.org.ico",
     "slug": "jad-s-plex-server-overseerr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 664,
-    "timeWeek": 553,
-    "timeMonth": 553,
-    "timeYear": 553,
-    "dailyMinutesDown": {}
+    "time": 765,
+    "timeDay": 1561,
+    "timeWeek": 765,
+    "timeMonth": 765,
+    "timeYear": 765,
+    "dailyMinutesDown": {
+      "2022-11-08": 0
+    }
   }
 ]
